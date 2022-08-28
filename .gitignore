@@ -1,3 +1,2 @@
 /target
-Cargo.lockclear
-rustfmt.toml
+/src/main.rs
